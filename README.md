@@ -5,7 +5,7 @@
 
 ## Our Home page
 
-https://github.com/4jitenderkumar/WanderTribe/assets/46212157/182ddb55-650d-41ed-bbc8-0f2a31e5618a
+https://github.com/4jitenderkumar/WanderTribe/assets/46212157/3c366988-9fa9-4428-b3cb-8774134e4205
 
 ## Guide Dashboard
 
